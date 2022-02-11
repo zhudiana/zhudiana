@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zhudiana__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zhudiana__)
 
 
-##  I am a software engineer with giant python obsessiveness !!
+##  I am a senior software engineering student with giant python obsessiveness !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
