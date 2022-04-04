@@ -2,7 +2,7 @@
 ### Hi there, I'm Yodit - aka [Judy] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/zhudiana__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zhudiana__)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/igirlcodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/igirlcodes)
 
 ##  I am a senior software engineering student with giant python obsessiveness !!
 
