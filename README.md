@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zhudiana__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zhudiana__)
 [![Twitter Follow](https://img.shields.io/twitter/follow/igirlcodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/igirlcodes)
 
-## Senior software engineering student!!
+## software engineering !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
