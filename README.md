@@ -4,16 +4,13 @@
 
 ## Software Engineer
 
-I'm a passionate developer who enjoys building real-world solutions and learning across the stack.
+In love with Python!
 
-- 🔭 Currently exploring full-stack development, system design, and architecture.  
-- 🌱 Learning new technologies, tools, and frameworks every day.  
-- 🤝 Open to collaboration on interesting and meaningful projects.  
-- 🎨 I also enjoy sketching and visual storytelling in my free time.  
+- Currently exploring full-stack development, system design, and architecture.  
+- Learning new technologies, tools, and frameworks every day.  
+- I also enjoy sketching.  
 
 ---
 
-### Let's Connect
+Checkout my FastAPI studying book: [FastAPI Learning Roadmap](https://github.com/zhudiana/FastAPI-Learning-Roadmap)
 
-- [Twitter](https://twitter.com/zhudiana__)  
-- [LinkedIn](https://www.linkedin.com/in/yoditfentaw)
