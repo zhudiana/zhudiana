@@ -6,9 +6,6 @@
 
 In love with Python!
 
-- Currently exploring full-stack development, system design, and architecture.  
-- Learning new technologies, tools, and frameworks every day.  
-- I also enjoy sketching.  
 
 ---
 
